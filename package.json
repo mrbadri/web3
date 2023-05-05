@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "ethereumjs-tx": "^2.1.2",
     "web3": "^1.9.0"
   }
 }
