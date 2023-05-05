@@ -1,7 +1,10 @@
 const Web3 = require("web3");
 const ABI = require("./contracts/tether/ABI.json");
 
+// https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7
 const contractAddress = "0xdAC17F958D2ee523a2206206994597C13D831ec7";
+
+// https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7#balances
 const address = "0x47ac0Fb4F2D84898e4D9E7b4DaB3C24507a6D503";
 
 const getURL = {

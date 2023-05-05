@@ -5,6 +5,7 @@ const getURL = {
   local: "http://127.0.0.1:7545",
 };
 
+// https://etherscan.io/accounts
 const address = "0xdC0f4EB5Cbb62ae7927bD3EA0f8BFc31fAb9094B";
 
 const web3 = new Web3(getURL.infura);
